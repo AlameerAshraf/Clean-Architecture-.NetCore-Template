@@ -1,2 +1,4 @@
 webapi/obj/
 Domain/obj/
+.vs/
+Persistance/obj/
